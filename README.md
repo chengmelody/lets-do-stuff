@@ -1,6 +1,7 @@
-# do_it_app
+# Lets Do Stuff
 
-A new Flutter application.
+Flutter task management app. You can add, delete, and check off tasks.
+There is also a built-in timer to help manage your time better. 
 
 ## Getting Started
 
